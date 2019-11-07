@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Sup, yo!
+          Testing the pull request functionality of the build process.
         </p>
         <a
           className="App-link"
